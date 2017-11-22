@@ -1,10 +1,5 @@
 ﻿﻿using System;
 
-/* ===Sources===
- * http://www.newthinktank.com/2013/03/binary-trees-in-java-2/
- * 
- */
-
 namespace Data_Structures
 {
     class BinaryTrees : DataStructure

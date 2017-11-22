@@ -1,0 +1,64 @@
+F:\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+F:\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe
+F:\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.pdb
+F:\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Properties.Resources.resources
+F:\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.csproj.GenerateResource.Cache
+F:\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+F:\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.pdb
+F:\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Form1.resources
+F:\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.DataStatisticsForm.resources
+D:\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+D:\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe
+D:\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.pdb
+D:\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.csprojResolveAssemblyReference.cache
+D:\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.DataStatisticsForm.resources
+D:\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Form1.resources
+D:\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Properties.Resources.resources
+D:\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.csproj.GenerateResource.Cache
+D:\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+D:\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.pdb
+F:\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.csprojResolveAssemblyReference.cache
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.pdb
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.pdb
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.csprojResolveAssemblyReference.cache
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.DataStatisticsForm.resources
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Form1.resources
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Properties.Resources.resources
+F:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\Backups\C#\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+C:\Users\User\Desktop\Backups\C#\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+C:\Users\User\Desktop\Backups\C#\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.pdb
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\obj\Debug\Data Structures.pdb
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\obj\Debug\Data Structures.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\obj\Debug\Data_Structures.DataStatisticsForm.resources
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\obj\Debug\Data_Structures.Form1.resources
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\obj\Debug\Data_Structures.Properties.Resources.resources
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\obj\Debug\Data Structures.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\bin\Debug\Data Structures.exe
+C:\Users\User\Desktop\DataStructures MAIN\Data Structures\Data Structures\bin\Debug\Data Structures.pdb
+F:\C# Assignment\DataStructures MAIN\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+F:\C# Assignment\DataStructures MAIN\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+F:\C# Assignment\DataStructures MAIN\Data Structures\Data Structures\obj\Debug\Data Structures.pdb
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.pdb
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.pdb
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\mscorlib.dll
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\System.Net.Http.dll
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\System.Net.Http.xml
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\normidna.nlp
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\normnfc.nlp
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\normnfd.nlp
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\normnfkc.nlp
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\bin\Debug\normnfkd.nlp
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.csprojResolveAssemblyReference.cache
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.DataStatisticsForm.resources
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Form1.resources
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Properties.Resources.resources
+G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.csproj.GenerateResource.Cache

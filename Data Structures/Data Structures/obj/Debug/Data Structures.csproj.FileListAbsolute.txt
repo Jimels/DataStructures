@@ -62,3 +62,6 @@ G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data_S
 G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Form1.resources
 G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data_Structures.Properties.Resources.resources
 G:\C# Assignment\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\DataStructures\Data Structures\Data Structures\bin\Debug\Data Structures.exe.config
+C:\Users\User\Desktop\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.exe
+C:\Users\User\Desktop\DataStructures\Data Structures\Data Structures\obj\Debug\Data Structures.pdb

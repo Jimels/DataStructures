@@ -50,7 +50,7 @@ namespace Data_Structures
         public override Object Get(object key)
         {
             int hash = (Convert.ToInt32(key) % TABLE_SIZE);
-            return array[hash] != null ? array[hash] : null;
+            return array[hash];
         }
 
         /// <summary>
